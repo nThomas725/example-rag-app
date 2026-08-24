@@ -1,6 +1,6 @@
 {
   "name": "example-rag-app",
-  "version": "0.1.23",
+  "version": "0.1.24",
   "description": "Open-Source RAG app with LLM Observability (Langfuse), support for 100+ providers (LiteLLM), Dockerized, Full Type-checking, 100% Test coverage, and more...",
   "main": "src/index.ts",
   "scripts": {
